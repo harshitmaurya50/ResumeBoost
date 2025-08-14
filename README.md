@@ -38,4 +38,8 @@ ResumeBoost is a MERN stack web application that helps job seekers analyze, opti
 ---
 
 ## 📂 Project Structure
-
+ResumeBoost/
+│── backend/ # Node.js, Express.js API
+│── frontend/ # React.js UI
+│── .env # Environment variables
+│── README.md # Project documentation
